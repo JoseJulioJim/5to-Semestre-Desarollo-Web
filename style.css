@@ -1,0 +1,17 @@
+#Letra {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 16px;
+    color: blue;
+}
+
+#Encabezado{
+    color: brown;
+}
+
+#Enlaces{
+    color: chocolate;
+}
+
+a:hover{
+color: pink
+}
