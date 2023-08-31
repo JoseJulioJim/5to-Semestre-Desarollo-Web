@@ -1,11 +1,31 @@
-#obscuro{
-    color: lightblue;
+html{
+    background-color: red;
+    color: pink;
+    font-size: 20px;
 }
 
-#claro{
-    color: chocolate;
+a{
+    color: greenyellow;
 }
 
-#enlaces{
-    color: blueviolet;
+a:hover{
+    color: green;
+}
+
+.border{
+    width: 3px;
+    border-style: double;
+    color: pink;
+}
+
+.recolor{
+    color: greenyellow;
+}
+
+.rounded{
+    border-radius: 50%;
+}
+
+.center{
+    text-align: center
 }
